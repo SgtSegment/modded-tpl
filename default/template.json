@@ -7,12 +7,12 @@
             "cmdOption":"-n"
         },
         {
-            "replacement":"480",
+            "replacement":"720",
             "pattern":"${HEIGHT}",
             "cmdOption":"-h"
         },
         {
-            "replacement":"640",
+            "replacement":"1280",
             "pattern":"${WIDTH}",
             "cmdOption":"-w"
         }
